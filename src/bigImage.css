@@ -1,0 +1,22 @@
+.imageContainer{
+	position: relative;
+	width: 100%; 
+	background-color:blue; 
+	height:406px; 
+	 
+}
+.image{
+	position: absolute; 
+	
+	left: 0px;
+	top: 0px; 
+}
+.imageText{
+	position: absolute;
+	left: 47%; 
+	top: 47%;  
+	z-index: 2; 
+	color: red; 
+	
+	
+}

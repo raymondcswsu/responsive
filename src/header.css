@@ -1,0 +1,10 @@
+.nav-toggle{
+	display:inline-block; 
+	color: #fff;
+}
+
+.header{
+	position:fixed;
+	top: 0; 
+	width: 100%; 
+}
